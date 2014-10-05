@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  LessionUtility
+
+  Created by 256 on 4/7/14.
+  Copyright (c) 2014 256. All rights reserved.
+*/
+
+// titles of tools bar - 工具栏标题
+"Selet a color" = "选择颜色";
+
+"Cancel" = "取消";
+
+"Black" = "黑色";
+"Red" = "红色";
+"Green" = "绿色";
+"Blue" = "蓝色";
+
+// tools title
+"Selet a tool" = "选择工具";
+
+"Pen" = "画笔";
+"Line" = "直线";
+"Rect (Stroke)" = "矩形框";
+"Rect (Fill)" = "矩形区域";
+"Ellipse (Stroke)" = "圆圈";
+"Ellipse (Fill)" = "圆形区域";
+"Eraser" = "橡皮擦";
+
+// action bar
+"Play" = "播放";
+"Pause" = "暂停";
+"Upload" = "上传";
+"Resume" = "继续";
+"Start" = "开始";
+"Stop" = "结束";
+"Import" = "插入";
